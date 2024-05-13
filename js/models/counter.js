@@ -5,11 +5,11 @@ export class Counter {
     }
 
     incrementValue() {
-        this.counter++;
+        this.#value = parseInt(this.#value) + 1;
     }
 
     decrementValue() {
-        this.counter--;
+        this.#value = parseInt(this.#value) - 1;
     }
 
     get value() {
