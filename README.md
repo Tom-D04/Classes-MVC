@@ -90,3 +90,4 @@ Le code implémenté nous permet bien d'afficher un compteur que l'on peut incr�
 ![image](https://github.com/Tom-D04/Classes-MVC/assets/84025296/d9b049f2-fa42-423f-93cb-89a0b6c4f15a)
 
 
+*Dunand Tom, 3A - IE - TD4*
